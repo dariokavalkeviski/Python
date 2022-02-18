@@ -1,4 +1,4 @@
-#estoque.py
+# Estoque.py
 
 
 produto = input('Digite o nome do produto:')
@@ -6,7 +6,7 @@ preco = float(input('Digite o preco:'))
 quantidade = int(input('Digite a quantidade: '))
 total = quantidade * preco
 
-#informar produto, preço e quantidade
+# Informar produto, preço e quantidade
 print('Nome do produto:' , produto)
 print('Preco do produto R$', preco)
 print('Quantidade do produto:', quantidade)
