@@ -1,4 +1,4 @@
-#login.py
+# Login.py
 
 nome = input("Digite seu nome:")
 senha = input("Digite a senha:")
