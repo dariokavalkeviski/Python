@@ -1,4 +1,4 @@
-#graficos.py
+# Graficos.py
 
 import turtle
 p = turtle.Pen()
